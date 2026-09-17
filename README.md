@@ -1,8 +1,8 @@
 # Exp 5 Apriori Algorithm
 
-**Name:** Royce Niran George A
+**Name:** Nandavelan SPS
 
-**Reg.No:** 212223060231
+**Reg.No:** 212223060182
 
 **Date:** 22/08/2026
 
